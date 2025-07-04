@@ -1,0 +1,20 @@
+# 🎲 Dice Rolling Game (CLI)
+
+A fun and beginner-friendly Python terminal game that lets you roll a virtual dice!  
+It uses emoji-based dice faces ⚀ to ⚅ and simple terminal inputs to interactively simulate rolling.
+
+📌 Features
+
+Random number generation (1 to 6)
+Unicode emoji dice faces for visual appeal
+Simple user interface using terminal input
+Loop to play multiple times until the user quits
+
+🚀 How to Run
+
+1. Make sure you have Python installed (3.x).
+2. Save the code as `dice_game.py`.
+3. Open a terminal and run:
+
+'''bash
+python dice_game.py
